@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+    
+}
+
+header a{
+    
+    font-weight: bolder;
+    text-decoration: none;
+    color: #000000;
+    font-size: 25px;
+
+
+    
+}
+nav a{
+    text-decoration: none;
+    padding: 15px;
+   
+}
